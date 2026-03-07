@@ -1,16 +1,20 @@
-## Hi there 👋
+# SugarlessGiRL
 
-<!--
-**1amkou/1amkou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+趣味で、Webツールや小さめの個人開発をしています。  
+日々のちょっとした不便を減らすものを作るのが好きです。
 
-Here are some ideas to get you started:
+## いま作っているもの
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [CSS-Copy](https://github.com/1amkou/CSS-Copy)
+Webサイト上のUIパーツを抽出して、ローカルのダッシュボードで整理・確認できるツールです。  
+Chrome拡張で要素をキャプチャし、Next.js製のダッシュボードでプレビューやコード確認ができます。  
+気になったUIを手元に残して見比べたい、という用途のために作っています。
+
+## ひとこと
+
+完成度を詰める前に、まず動くものを小さく作って試すのが好きです。  
+必要になったものを、その都度形にしていくスタイルでやっています。
+
+---
+
+I build small web tools and hobby projects.
